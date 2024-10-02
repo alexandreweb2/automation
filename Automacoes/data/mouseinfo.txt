@@ -1,0 +1,6 @@
+pip install pyautogui pillow mouseinfo
+
+indentificacao de localizacao de mouse
+python
+from mouseinfo import mouseInfo
+mouseInfo()
